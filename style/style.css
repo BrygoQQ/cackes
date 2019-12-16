@@ -172,7 +172,7 @@ header {
 .general__content {
   display: flex;
   justify-content: space-between;
-  flex-flow: row wrap;
+  flex-flow: row nowrap;
 }
 .general__images {
   position: relative;

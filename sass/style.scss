@@ -183,7 +183,7 @@ header {
 	&__content {
 		display: flex;
 		justify-content: space-between;
-		flex-flow: row wrap;
+		flex-flow: row nowrap;
 	}
 	&__images {
 		position: relative;
